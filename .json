@@ -18,9 +18,9 @@
       }
     },
     "Ads Config": {
-      "mode_ads_banner": "unity",
-      "mode_ads_interstitial": "unity",
-      "mode_ads_native": "unity"
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
+      "mode_ads_native": "admob"
     }
   }
 }
